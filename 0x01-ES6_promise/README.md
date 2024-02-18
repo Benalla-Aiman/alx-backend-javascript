@@ -1,0 +1,1 @@
+This project, “0x01. ES6 Promises”, is about understanding and implementing ES6 Promises in JavaScript. It covers topics like how to use the then, resolve, catch methods, the await operator, and async functions.
